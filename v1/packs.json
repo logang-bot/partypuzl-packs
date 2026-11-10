@@ -1,0 +1,608 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 1,
+  "packs": {
+    "premium_movie_night": {
+      "en": {
+        "trivia": [
+          {
+            "question": "In Forrest Gump, what does Forrest say life is like?",
+            "optionA": "A box of chocolates",
+            "optionB": "A long road",
+            "correct": "A"
+          },
+          {
+            "question": "In The Lion King, who is Simba's father?",
+            "optionA": "Scar",
+            "optionB": "Mufasa",
+            "correct": "B"
+          },
+          {
+            "question": "Which film won the first ever Best Picture Oscar for a streaming service?",
+            "optionA": "CODA",
+            "optionB": "Roma",
+            "correct": "A"
+          },
+          {
+            "question": "In The Matrix, which pill does Neo take?",
+            "optionA": "Blue",
+            "optionB": "Red",
+            "correct": "B"
+          },
+          {
+            "question": "What is the highest-grossing film of all time?",
+            "optionA": "Avengers: Endgame",
+            "optionB": "Avatar",
+            "correct": "B"
+          },
+          {
+            "question": "Which director made Jaws?",
+            "optionA": "Steven Spielberg",
+            "optionB": "Martin Scorsese",
+            "correct": "A"
+          },
+          {
+            "question": "What is the name of the hotel in The Shining?",
+            "optionA": "The Overlook",
+            "optionB": "The Bates",
+            "correct": "A"
+          },
+          {
+            "question": "Which animated film features a rat who wants to be a chef?",
+            "optionA": "Flushed Away",
+            "optionB": "Ratatouille",
+            "correct": "B"
+          },
+          {
+            "question": "In Titanic, what is the name of Kate Winslet's character?",
+            "optionA": "Rose",
+            "optionB": "Ruth",
+            "correct": "A"
+          },
+          {
+            "question": "Which superhero is known as the Caped Crusader?",
+            "optionA": "Superman",
+            "optionB": "Batman",
+            "correct": "B"
+          },
+          {
+            "question": "What is the name of the fictional African country in Black Panther?",
+            "optionA": "Zamunda",
+            "optionB": "Wakanda",
+            "correct": "B"
+          },
+          {
+            "question": "In which film does a character say \"I'll be back\"?",
+            "optionA": "The Terminator",
+            "optionB": "Total Recall",
+            "correct": "A"
+          },
+          {
+            "question": "Which actor plays Jack Sparrow?",
+            "optionA": "Johnny Depp",
+            "optionB": "Orlando Bloom",
+            "correct": "A"
+          },
+          {
+            "question": "In Jurassic Park, where is the dinosaur DNA found?",
+            "optionA": "In ice",
+            "optionB": "In amber",
+            "correct": "B"
+          },
+          {
+            "question": "Which film features a hotel concierge named Monsieur Gustave?",
+            "optionA": "The Grand Budapest Hotel",
+            "optionB": "The Darjeeling Limited",
+            "correct": "A"
+          },
+          {
+            "question": "Who directed Pulp Fiction?",
+            "optionA": "Guy Ritchie",
+            "optionB": "Quentin Tarantino",
+            "correct": "B"
+          },
+          {
+            "question": "In Toy Story, what kind of toy is Woody?",
+            "optionA": "A space ranger",
+            "optionB": "A cowboy doll",
+            "correct": "B"
+          },
+          {
+            "question": "Which film won Best Picture at the 2020 Oscars?",
+            "optionA": "Parasite",
+            "optionB": "1917",
+            "correct": "A"
+          },
+          {
+            "question": "In Back to the Future, what car becomes the time machine?",
+            "optionA": "A DeLorean",
+            "optionB": "A Mustang",
+            "correct": "A"
+          },
+          {
+            "question": "Who composed the score for Star Wars?",
+            "optionA": "Hans Zimmer",
+            "optionB": "John Williams",
+            "correct": "B"
+          },
+          {
+            "question": "In The Godfather, what is the family name?",
+            "optionA": "Corleone",
+            "optionB": "Soprano",
+            "correct": "A"
+          },
+          {
+            "question": "Which studio made Spirited Away?",
+            "optionA": "Toei Animation",
+            "optionB": "Studio Ghibli",
+            "correct": "B"
+          },
+          {
+            "question": "In Inception, what object does Cobb use to test reality?",
+            "optionA": "A pocket watch",
+            "optionB": "A spinning top",
+            "correct": "B"
+          },
+          {
+            "question": "Which film introduced the character Hannibal Lecter to audiences?",
+            "optionA": "The Silence of the Lambs",
+            "optionB": "Se7en",
+            "correct": "A"
+          }
+        ]
+      },
+      "es": {
+        "trivia": [
+          {
+            "question": "En Forrest Gump, ¿a qué dice Forrest que se parece la vida?",
+            "optionA": "A una caja de bombones",
+            "optionB": "A un camino largo",
+            "correct": "A"
+          },
+          {
+            "question": "En El Rey León, ¿quién es el padre de Simba?",
+            "optionA": "Scar",
+            "optionB": "Mufasa",
+            "correct": "B"
+          },
+          {
+            "question": "¿Qué película ganó el primer Óscar a Mejor Película para una plataforma de streaming?",
+            "optionA": "CODA",
+            "optionB": "Roma",
+            "correct": "A"
+          },
+          {
+            "question": "En Matrix, ¿qué pastilla toma Neo?",
+            "optionA": "Azul",
+            "optionB": "Roja",
+            "correct": "B"
+          },
+          {
+            "question": "¿Cuál es la película más taquillera de todos los tiempos?",
+            "optionA": "Avengers: Endgame",
+            "optionB": "Avatar",
+            "correct": "B"
+          },
+          {
+            "question": "¿Qué director hizo Tiburón?",
+            "optionA": "Steven Spielberg",
+            "optionB": "Martin Scorsese",
+            "correct": "A"
+          },
+          {
+            "question": "¿Cómo se llama el hotel de El Resplandor?",
+            "optionA": "El Overlook",
+            "optionB": "El Bates",
+            "correct": "A"
+          },
+          {
+            "question": "¿Qué película animada trata de una rata que quiere ser chef?",
+            "optionA": "Lo que el agua se llevó",
+            "optionB": "Ratatouille",
+            "correct": "B"
+          },
+          {
+            "question": "En Titanic, ¿cómo se llama el personaje de Kate Winslet?",
+            "optionA": "Rose",
+            "optionB": "Ruth",
+            "correct": "A"
+          },
+          {
+            "question": "¿Qué superhéroe es conocido como el Caballero Oscuro?",
+            "optionA": "Superman",
+            "optionB": "Batman",
+            "correct": "B"
+          },
+          {
+            "question": "¿Cuál es el país africano ficticio de Black Panther?",
+            "optionA": "Zamunda",
+            "optionB": "Wakanda",
+            "correct": "B"
+          },
+          {
+            "question": "¿En qué película alguien dice \"Volveré\"?",
+            "optionA": "Terminator",
+            "optionB": "Desafío total",
+            "correct": "A"
+          },
+          {
+            "question": "¿Qué actor interpreta a Jack Sparrow?",
+            "optionA": "Johnny Depp",
+            "optionB": "Orlando Bloom",
+            "correct": "A"
+          },
+          {
+            "question": "En Parque Jurásico, ¿dónde se encuentra el ADN de dinosaurio?",
+            "optionA": "En hielo",
+            "optionB": "En ámbar",
+            "correct": "B"
+          },
+          {
+            "question": "¿Qué película tiene un conserje de hotel llamado Monsieur Gustave?",
+            "optionA": "El Gran Hotel Budapest",
+            "optionB": "Viaje a Darjeeling",
+            "correct": "A"
+          },
+          {
+            "question": "¿Quién dirigió Pulp Fiction?",
+            "optionA": "Guy Ritchie",
+            "optionB": "Quentin Tarantino",
+            "correct": "B"
+          },
+          {
+            "question": "En Toy Story, ¿qué tipo de juguete es Woody?",
+            "optionA": "Un guardián espacial",
+            "optionB": "Un vaquero de trapo",
+            "correct": "B"
+          },
+          {
+            "question": "¿Qué película ganó Mejor Película en los Óscar de 2020?",
+            "optionA": "Parásitos",
+            "optionB": "1917",
+            "correct": "A"
+          },
+          {
+            "question": "En Regreso al futuro, ¿qué coche se convierte en máquina del tiempo?",
+            "optionA": "Un DeLorean",
+            "optionB": "Un Mustang",
+            "correct": "A"
+          },
+          {
+            "question": "¿Quién compuso la banda sonora de Star Wars?",
+            "optionA": "Hans Zimmer",
+            "optionB": "John Williams",
+            "correct": "B"
+          },
+          {
+            "question": "En El Padrino, ¿cuál es el apellido de la familia?",
+            "optionA": "Corleone",
+            "optionB": "Soprano",
+            "correct": "A"
+          },
+          {
+            "question": "¿Qué estudio hizo El viaje de Chihiro?",
+            "optionA": "Toei Animation",
+            "optionB": "Studio Ghibli",
+            "correct": "B"
+          },
+          {
+            "question": "En Origen, ¿qué objeto usa Cobb para comprobar la realidad?",
+            "optionA": "Un reloj de bolsillo",
+            "optionB": "Una peonza",
+            "correct": "B"
+          },
+          {
+            "question": "¿Qué película presentó al personaje de Hannibal Lecter al gran público?",
+            "optionA": "El silencio de los corderos",
+            "optionB": "Se7en",
+            "correct": "A"
+          }
+        ]
+      }
+    },
+    "premium_spicy": {
+      "en": {
+        "sticky": [
+          {
+            "text": "For 3 minutes the player must hold eye contact with whoever is speaking",
+            "presentContinuous": "holding eye contact with whoever is speaking",
+            "durationSeconds": 180
+          },
+          {
+            "text": "For 2 minutes the player must answer every question with a compliment about whoever asked",
+            "presentContinuous": "answering every question with a compliment about whoever asked",
+            "durationSeconds": 120
+          },
+          {
+            "text": "For 5 minutes the player must call everyone \"darling\"",
+            "presentContinuous": "calling everyone \"darling\"",
+            "durationSeconds": 300
+          },
+          {
+            "text": "For 3 minutes the player must speak only in pickup lines",
+            "presentContinuous": "speaking only in pickup lines",
+            "durationSeconds": 180
+          },
+          {
+            "text": "For 2 minutes the player must blow a kiss before every sentence",
+            "presentContinuous": "blowing a kiss before every sentence",
+            "durationSeconds": 120
+          },
+          {
+            "text": "For 5 minutes the player must rate everything out of ten, out loud",
+            "presentContinuous": "rating everything out of ten, out loud",
+            "durationSeconds": 300
+          },
+          {
+            "text": "For 3 minutes the player must whisper every answer",
+            "presentContinuous": "whispering every answer",
+            "durationSeconds": 180
+          },
+          {
+            "text": "For 2 minutes the player must strike a pose whenever someone laughs",
+            "presentContinuous": "striking a pose whenever someone laughs",
+            "durationSeconds": 120
+          },
+          {
+            "text": "For 5 minutes the player must sit as close as they dare to the person on their left",
+            "presentContinuous": "sitting as close as they dare to the person on their left",
+            "durationSeconds": 300
+          },
+          {
+            "text": "For 3 minutes the player must narrate their own movements like a nature documentary",
+            "presentContinuous": "narrating their own movements like a nature documentary",
+            "durationSeconds": 180
+          },
+          {
+            "text": "For 2 minutes the player must end every sentence with \"…and I mean that\"",
+            "presentContinuous": "ending every sentence with \"…and I mean that\"",
+            "durationSeconds": 120
+          },
+          {
+            "text": "For 5 minutes the player must ask the group's permission before every sip",
+            "presentContinuous": "asking the group's permission before every sip",
+            "durationSeconds": 300
+          },
+          {
+            "text": "For 3 minutes the player must describe every outfit in the room as if it were a red carpet",
+            "presentContinuous": "describing every outfit in the room as if it were a red carpet",
+            "durationSeconds": 180
+          },
+          {
+            "text": "For 2 minutes the player must agree enthusiastically with everything the player opposite says",
+            "presentContinuous": "agreeing enthusiastically with everything the player opposite says",
+            "durationSeconds": 120
+          },
+          {
+            "text": "For 5 minutes the player must announce who they would pick for every hypothetical they are asked",
+            "presentContinuous": "announcing who they would pick for every hypothetical they are asked",
+            "durationSeconds": 300
+          },
+          {
+            "text": "For 3 minutes the player must introduce whoever speaks as if presenting them to royalty",
+            "presentContinuous": "introducing whoever speaks as if presenting them to royalty",
+            "durationSeconds": 180
+          },
+          {
+            "text": "For 10 minutes the player must refer to themselves in the third person",
+            "presentContinuous": "referring to themselves in the third person",
+            "durationSeconds": 600
+          },
+          {
+            "text": "For 2 minutes the player must offer a slow-dance to whoever speaks to them",
+            "presentContinuous": "offering a slow-dance to whoever speaks to them",
+            "durationSeconds": 120
+          },
+          {
+            "text": "For 5 minutes the player must find something genuinely attractive to say about each player in turn",
+            "presentContinuous": "finding something genuinely attractive to say about each player in turn",
+            "durationSeconds": 300
+          },
+          {
+            "text": "For 10 minutes the player must let the person on their left answer for them",
+            "presentContinuous": "letting the person on their left answer for them",
+            "durationSeconds": 600
+          }
+        ]
+      },
+      "es": {
+        "sticky": [
+          {
+            "text": "Durante 3 minutos el jugador debe sostener la mirada a quien esté hablando",
+            "presentContinuous": "sosteniendo la mirada a quien esté hablando",
+            "durationSeconds": 180
+          },
+          {
+            "text": "Durante 2 minutos el jugador debe responder cada pregunta con un halago a quien la hizo",
+            "presentContinuous": "respondiendo cada pregunta con un halago a quien la hizo",
+            "durationSeconds": 120
+          },
+          {
+            "text": "Durante 5 minutos el jugador debe llamar a todos \"cariño\"",
+            "presentContinuous": "llamando a todos \"cariño\"",
+            "durationSeconds": 300
+          },
+          {
+            "text": "Durante 3 minutos el jugador debe hablar solo con frases de ligue",
+            "presentContinuous": "hablando solo con frases de ligue",
+            "durationSeconds": 180
+          },
+          {
+            "text": "Durante 2 minutos el jugador debe lanzar un beso antes de cada frase",
+            "presentContinuous": "lanzando un beso antes de cada frase",
+            "durationSeconds": 120
+          },
+          {
+            "text": "Durante 5 minutos el jugador debe puntuar todo del uno al diez en voz alta",
+            "presentContinuous": "puntuando todo del uno al diez en voz alta",
+            "durationSeconds": 300
+          },
+          {
+            "text": "Durante 3 minutos el jugador debe susurrar todas sus respuestas",
+            "presentContinuous": "susurrando todas sus respuestas",
+            "durationSeconds": 180
+          },
+          {
+            "text": "Durante 2 minutos el jugador debe posar cada vez que alguien se ría",
+            "presentContinuous": "posando cada vez que alguien se ría",
+            "durationSeconds": 120
+          },
+          {
+            "text": "Durante 5 minutos el jugador debe sentarse tan cerca como se atreva de quien tiene a la izquierda",
+            "presentContinuous": "sentándose tan cerca como se atreva de quien tiene a la izquierda",
+            "durationSeconds": 300
+          },
+          {
+            "text": "Durante 3 minutos el jugador debe narrar sus propios movimientos como un documental de naturaleza",
+            "presentContinuous": "narrando sus propios movimientos como un documental de naturaleza",
+            "durationSeconds": 180
+          },
+          {
+            "text": "Durante 2 minutos el jugador debe terminar cada frase con \"…y lo digo en serio\"",
+            "presentContinuous": "terminando cada frase con \"…y lo digo en serio\"",
+            "durationSeconds": 120
+          },
+          {
+            "text": "Durante 5 minutos el jugador debe pedirle permiso al grupo antes de cada sorbo",
+            "presentContinuous": "pidiéndole permiso al grupo antes de cada sorbo",
+            "durationSeconds": 300
+          },
+          {
+            "text": "Durante 3 minutos el jugador debe describir cada atuendo de la sala como si fuera una alfombra roja",
+            "presentContinuous": "describiendo cada atuendo de la sala como si fuera una alfombra roja",
+            "durationSeconds": 180
+          },
+          {
+            "text": "Durante 2 minutos el jugador debe darle la razón con entusiasmo a quien tiene enfrente",
+            "presentContinuous": "dándole la razón con entusiasmo a quien tiene enfrente",
+            "durationSeconds": 120
+          },
+          {
+            "text": "Durante 5 minutos el jugador debe decir a quién elegiría en cada hipótesis que le planteen",
+            "presentContinuous": "diciendo a quién elegiría en cada hipótesis que le planteen",
+            "durationSeconds": 300
+          },
+          {
+            "text": "Durante 3 minutos el jugador debe presentar a quien hable como si lo presentara ante la realeza",
+            "presentContinuous": "presentando a quien hable como si lo presentara ante la realeza",
+            "durationSeconds": 180
+          },
+          {
+            "text": "Durante 10 minutos el jugador debe hablar de sí mismo en tercera persona",
+            "presentContinuous": "hablando de sí mismo en tercera persona",
+            "durationSeconds": 600
+          },
+          {
+            "text": "Durante 2 minutos el jugador debe ofrecer un baile lento a quien le hable",
+            "presentContinuous": "ofreciendo un baile lento a quien le hable",
+            "durationSeconds": 120
+          },
+          {
+            "text": "Durante 5 minutos el jugador debe decir algo genuinamente atractivo de cada jugador, por turnos",
+            "presentContinuous": "diciendo algo genuinamente atractivo de cada jugador, por turnos",
+            "durationSeconds": 300
+          },
+          {
+            "text": "Durante 10 minutos el jugador debe dejar que quien tiene a la izquierda responda por él",
+            "presentContinuous": "dejando que quien tiene a la izquierda responda por él",
+            "durationSeconds": 600
+          }
+        ]
+      }
+    },
+    "premium_nsfw": {
+      "en": {
+        "truths": [
+          "What is the boldest thing you have ever done to get someone's attention?",
+          "Who in this room would you most want to be stuck in an elevator with?",
+          "What is the most embarrassing thing in your search history?",
+          "Tell us about the worst date you have ever been on.",
+          "What is a secret you have never told anyone in this room?",
+          "Who was your most inappropriate crush?",
+          "What is the biggest lie you have told to get out of plans?",
+          "What is the most reckless thing you have done on a night out?",
+          "Which of your exes would you least want to run into tomorrow?",
+          "What is something you have done that you would never admit to your parents?",
+          "Who in this room have you thought about more than you would ever admit?",
+          "What is the pettiest reason you have ended things with someone?",
+          "What is the most flattering lie anyone has told you — and did you believe it?",
+          "Which of your friends' partners did you have doubts about from day one?",
+          "What is the longest you have gone without telling someone how you felt about them?",
+          "What is the worst thing you have done out of jealousy?",
+          "Whose messages do you reread?",
+          "What is the most desperate thing you have done for someone's attention?",
+          "Which of your own rules have you broken for someone?",
+          "What do you find attractive about someone here that you have never said out loud?"
+        ],
+        "dares": [
+          "Read out the last message you sent, in a dramatic voice.",
+          "Let the group pick your next social media caption.",
+          "Show the last photo you took to everyone in the room.",
+          "Text a friend a compliment so over the top it is suspicious.",
+          "Give the most flirtatious compliment you can to the person on your left.",
+          "Let the person to your right rate your outfit out loud.",
+          "Do your most convincing impression of someone you have dated.",
+          "Confess your most-used emoji and act it out.",
+          "Let the group choose a new nickname for you for the rest of the night.",
+          "Whisper a secret to the player of the group's choosing.",
+          "Say something you genuinely find attractive about each player, in turn.",
+          "Let the group read out your most recent search.",
+          "Show the group the last flirty message you sent — or admit you have none.",
+          "Hold eye contact with the player opposite until someone in the room laughs.",
+          "Let the player on your left pick any photo from your camera roll for the group to see.",
+          "Describe your ideal night in, in as much detail as you dare.",
+          "Let the group ask you one question you are not allowed to dodge.",
+          "Rank everyone here by who you would trust with your phone unlocked.",
+          "Do your best impression of the last person who made you nervous.",
+          "Swap one item of clothing with the player to your right."
+        ]
+      },
+      "es": {
+        "truths": [
+          "¿Qué es lo más atrevido que has hecho para llamar la atención de alguien?",
+          "¿Con quién de esta sala preferirías quedarte atrapado en un ascensor?",
+          "¿Qué es lo más vergonzoso de tu historial de búsqueda?",
+          "Cuéntanos la peor cita que has tenido.",
+          "¿Cuál es un secreto que nunca le has contado a nadie de esta sala?",
+          "¿Cuál fue tu enamoramiento más inapropiado?",
+          "¿Cuál es la mentira más grande que has dicho para cancelar planes?",
+          "¿Qué es lo más imprudente que has hecho en una noche de fiesta?",
+          "¿Con cuál de tus ex menos te gustaría cruzarte mañana?",
+          "¿Qué has hecho que jamás le admitirías a tus padres?",
+          "¿En quién de esta sala has pensado más de lo que admitirías?",
+          "¿Cuál es la razón más tonta por la que has cortado con alguien?",
+          "¿Cuál es la mentira más halagadora que te han dicho? ¿Te la creíste?",
+          "¿De la pareja de cuál de tus amigos dudaste desde el primer día?",
+          "¿Cuánto tiempo has aguantado sin decirle a alguien lo que sentías?",
+          "¿Qué es lo peor que has hecho por celos?",
+          "¿Los mensajes de quién relees?",
+          "¿Qué es lo más desesperado que has hecho por la atención de alguien?",
+          "¿Qué regla tuya has roto por alguien?",
+          "¿Qué te parece atractivo de alguien de aquí y nunca has dicho en voz alta?"
+        ],
+        "dares": [
+          "Lee en voz dramática el último mensaje que enviaste.",
+          "Deja que el grupo elija tu próxima publicación en redes.",
+          "Enséñale a todos la última foto que tomaste.",
+          "Envíale a un amigo un halago tan exagerado que resulte sospechoso.",
+          "Dile el halago más coqueto que se te ocurra a quien tienes a la izquierda.",
+          "Deja que quien tienes a la derecha califique tu ropa en voz alta.",
+          "Haz tu mejor imitación de alguien con quien hayas salido.",
+          "Confiesa tu emoji más usado y actúalo.",
+          "Deja que el grupo te ponga un apodo para el resto de la noche.",
+          "Susúrrale un secreto al jugador que elija el grupo.",
+          "Di algo que te parezca genuinamente atractivo de cada jugador, por turnos.",
+          "Deja que el grupo lea en voz alta tu búsqueda más reciente.",
+          "Enséñale al grupo el último mensaje coqueto que enviaste — o admite que no tienes ninguno.",
+          "Sostén la mirada con quien tienes enfrente hasta que alguien de la sala se ría.",
+          "Deja que quien tienes a la izquierda elija cualquier foto de tu galería para enseñarla al grupo.",
+          "Describe tu noche ideal en casa, con todo el detalle que te atrevas.",
+          "Deja que el grupo te haga una pregunta que no puedes esquivar.",
+          "Ordena a los presentes según a quién le confiarías tu móvil desbloqueado.",
+          "Haz tu mejor imitación de la última persona que te puso nervioso.",
+          "Intercambia una prenda con quien tienes a la derecha."
+        ]
+      }
+    }
+  }
+}
