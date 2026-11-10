@@ -57,6 +57,9 @@ site is unreachable. Official (free) packs are not here; they ship inside the ap
 Don't remove a pack or empty a language that devices already rely on. A device that downloads the
 smaller file loses those prompts.
 
+Full manual procedures (adding a pack, adding a language, rebuilding this repo, rollback) are in
+the app repo: `docs/premium-packs-runbook.md`.
+
 ## Files
 
 - `v1/packs.json`: the content.
